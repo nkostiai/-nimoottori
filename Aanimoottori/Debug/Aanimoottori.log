@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\dev\aanimootori\aanimoottori\aanimoottori\audio2d.h(5): warning C4099: 'ga_Handle': type name first seen using 'class' now seen using 'struct'
+  c:\dev\aanimootori\aanimoottori\aanimoottori\playableaudio.h(4): note: see declaration of 'ga_Handle'
+c:\dev\aanimootori\aanimoottori\aanimoottori\audio3d.h(5): warning C4099: 'ga_Handle': type name first seen using 'class' now seen using 'struct'
+  c:\dev\aanimootori\aanimoottori\aanimoottori\audio2d.h(5): note: see declaration of 'ga_Handle'
+c:\dev\aanimootori\aanimoottori\aanimoottori\soundcontroller.h(5): warning C4099: 'ga_Handle': type name first seen using 'class' now seen using 'struct'
+  c:\dev\aanimootori\aanimoottori\aanimoottori\audio3d.h(5): note: see declaration of 'ga_Handle'
+c:\dev\libs\gorillaaudio\include\gorilla\ga.h(788): warning C4099: 'ga_Handle': type name first seen using 'class' now seen using 'struct'
+  c:\dev\aanimootori\aanimoottori\aanimoottori\soundcontroller.h(5): note: see declaration of 'ga_Handle'
+c:\dev\libs\gorillaaudio\include\gorilla\ga_internal.h(187): warning C4099: 'ga_Handle': type name first seen using 'class' now seen using 'struct'
+  c:\dev\libs\gorillaaudio\include\gorilla\ga_internal.h(187): note: see declaration of 'ga_Handle'
+  Aanimoottori.vcxproj -> C:\Dev\Aanimootori\Aanimoottori\Debug\Aanimoottori.exe
+  Aanimoottori.vcxproj -> C:\Dev\Aanimootori\Aanimoottori\Debug\Aanimoottori.pdb (Partial PDB)
